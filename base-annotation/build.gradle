@@ -1,0 +1,12 @@
+apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'java-library'
+
+group = 'com.github.vinisauter.BaseAnnotation'
+version = '1.0'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

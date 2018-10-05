@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BaseAnnotationProcessing.iml" filepath="$PROJECT_DIR$/BaseAnnotationProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-annotation/base-annotation.iml" filepath="$PROJECT_DIR$/base-annotation/base-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-processor/base-processor.iml" filepath="$PROJECT_DIR$/base-processor/base-processor.iml" />
     </modules>
   </component>
 </project>
